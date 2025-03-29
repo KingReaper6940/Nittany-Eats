@@ -1,0 +1,9 @@
+Flask
+Flask-CORS
+gunicorn
+requests
+icalendar
+pytesseract
+beautifulsoup4
+Pillow
+google-generativeai
